@@ -1,1 +1,1 @@
-# 취미 백준
+# baekjoon-solve
